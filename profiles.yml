@@ -1,0 +1,7 @@
+mingo_learner_impact:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: data/warehouse.duckdb
+      threads: 1

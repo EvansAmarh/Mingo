@@ -1,0 +1,4 @@
+programme_id,programme_name,n_sessions,duration_weeks,start_date,end_date
+P1,School Robotics,8,8,2026-01-19,2026-03-15
+P2,AI Basics,6,6,2026-02-02,2026-03-15
+P3,Holiday Camp,10,2,2026-04-06,2026-04-19

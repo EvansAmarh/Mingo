@@ -1,0 +1,653 @@
+learner_id,programme_id,site,gender,age_group,school_type,prior_experience,device_at_home
+L0001,P3,Madina,M,14-17,private,yes,no
+L0002,P2,Kasoa,M,8-10,public,no,no
+L0003,P3,Accra Central,F,11-13,public,no,yes
+L0004,P1,Madina,M,11-13,private,no,yes
+L0005,P3,Tema,F,8-10,private,no,yes
+L0006,P2,Accra Central,F,8-10,public,no,no
+L0007,P2,Madina,M,11-13,public,yes,no
+L0008,P1,Accra Central,M,8-10,private,yes,yes
+L0009,P2,Tema,M,11-13,public,yes,no
+L0010,P1,Madina,M,14-17,private,yes,yes
+L0011,P1,Madina,F,14-17,public,no,no
+L0012,P1,Tema,F,11-13,public,no,no
+L0013,P1,Madina,M,8-10,public,no,no
+L0014,P1,Madina,M,8-10,public,yes,no
+L0015,P2,Kasoa,F,11-13,public,yes,no
+L0016,P2,Accra Central,M,8-10,public,no,yes
+L0017,P1,Accra Central,M,8-10,public,yes,no
+L0018,P3,Madina,F,11-13,private,no,no
+L0019,P2,Tema,M,8-10,private,yes,no
+L0020,P3,Tema,M,11-13,private,no,no
+L0021,P3,Madina,M,11-13,public,no,no
+L0022,P3,Accra Central,M,8-10,public,no,no
+L0023,P3,Tema,Female,11-13,public,yes,no
+L0024,P3,Tema,F,11-13,private,no,yes
+L0025,P3,Kasoa,M,11-13,public,no,no
+L0026,P3,Madina,M,11-13,private,yes,yes
+L0027,P1,Kasoa,M,8-10,private,no,yes
+L0028,P1,Madina,F,14-17,public,no,no
+L0029,P3,Accra Central,M,11-13,public,yes,no
+L0030,P1,Tema,Female,8-10,private,no,yes
+L0031,P3,Tema,F,8-10,private,no,no
+L0032,P3,Tema,F,8-10,public,no,no
+L0033,P2,Accra Central,M,14-17,public,no,no
+L0034,P1,Tema,Female,8-10,public,yes,no
+L0035,P2,Accra Central,M,11-13,private,no,yes
+L0036,P3,Tema,F,14-17,public,no,yes
+L0037,P1,Tema,F,11-13,public,no,no
+L0038,P3,Kasoa,F,11-13,public,yes,no
+L0039,P2,Madina,F,8-10,public,no,yes
+L0040,P3,Madina,F,8-10,private,no,yes
+L0041,P1,Madina,M,11-13,public,no,yes
+L0042,P3,Tema,F,11-13,private,yes,yes
+L0043,P1,Tema,M,11-13,private,no,no
+L0044,P2,Accra Central,F,14-17,public,yes,no
+L0045,P3,Tema,F,11-13,private,no,yes
+L0046,P2,Accra Central,M,11-13,public,yes,no
+L0047,P1,Tema,M,11-13,public,no,no
+L0048,P3,Kasoa,M,11-13,private,no,yes
+L0049,P2,Kasoa,F,11-13,public,yes,no
+L0050,P1,Tema,Female,11-13,public,no,no
+L0051,P3,Tema,F,11-13,public,yes,yes
+L0052,P3,Madina,F,8-10,private,yes,yes
+L0053,P3,Kasoa,M,14-17,public,no,no
+L0054,P2,Accra Central,M,8-10,public,yes,no
+L0055,P1,Tema,M,8-10,public,no,no
+L0056,P2,Accra Central,F,8-10,public,no,no
+L0057,P2,Tema,M,11-13,public,no,no
+L0058,P2,Kasoa,M,11-13,public,no,no
+L0059,P1,Tema,M,11-13,private,no,yes
+L0060,P1,Madina,M,11-13,public,no,no
+L0061,P1,Tema,M,11-13,public,yes,no
+L0062,P1,Accra Central,M,8-10,private,no,yes
+L0063,P1,Madina,M,11-13,public,yes,no
+L0064,P1,Kasoa,M,11-13,private,no,yes
+L0065,P2,Kasoa,M,11-13,public,no,yes
+L0066,P2,Kasoa,F,8-10,public,yes,yes
+L0067,P2,Accra Central,Female,11-13,private,no,yes
+L0068,P1,Madina,F,11-13,private,no,yes
+L0069,P1,Accra Central,M,8-10,public,no,no
+L0070,P1,Tema,M,11-13,private,no,yes
+L0071,P1,Madina,Female,11-13,public,no,yes
+L0072,P1,Accra Central,Male,14-17,public,no,no
+L0073,P1,Kasoa,M,11-13,public,yes,yes
+L0074,P1,Tema,F,11-13,public,yes,no
+L0075,P1,Madina,F,8-10,public,yes,yes
+L0076,P3,Madina,M,11-13,public,no,no
+L0077,P1,Tema,F,14-17,private,no,no
+L0078,P1,Accra Central,M,8-10,public,yes,no
+L0079,P3,Accra Central,F,11-13,private,yes,yes
+L0080,P3,Kasoa,M,14-17,private,no,yes
+L0081,P2,Accra Central,M,11-13,private,no,no
+L0082,P2,Kasoa,F,11-13,public,yes,no
+L0083,P1,Tema,F,11-13,public,no,no
+L0084,P3,Madina,F,8-10,private,no,no
+L0085,P2,Accra Central,F,11-13,private,no,no
+L0086,P3,Accra Central,M,11-13,public,no,no
+L0087,P1,Kasoa,F,8-10,public,no,no
+L0088,P1,Tema,F,11-13,public,no,no
+L0089,P3,Accra Central,M,11-13,public,no,no
+L0090,P1,Accra Central,M,11-13,public,yes,no
+L0091,P3,Kasoa,F,11-13,public,yes,no
+L0092,P3,Madina,M,8-10,private,no,yes
+L0093,P1,Madina,M,11-13,public,no,no
+L0094,P2,Tema,M,11-13,public,no,yes
+L0095,P1,Kasoa ,M,11-13,public,no,yes
+L0096,P3,Tema,F,11-13,public,no,no
+L0097,P2,Accra Central,F,11-13,public,no,yes
+L0098,P2,Accra Central,Male,11-13,public,no,no
+L0099,P1,Kasoa,F,14-17,private,no,no
+L0100,P1,Madina,M,11-13,public,no,yes
+L0101,P1,Accra Central,F,11-13,public,yes,no
+L0102,P2,Madina,F,8-10,private,no,yes
+L0103,P3,Kasoa,F,11-13,public,yes,no
+L0104,P1,Madina,F,8-10,public,yes,yes
+L0105,P2,Madina,M,11-13,public,no,no
+L0106,P3,Accra Central,M,8-10,private,no,yes
+L0107,P1,Kasoa ,M,8-10,public,yes,no
+L0108,P2,Madina,F,14-17,public,no,yes
+L0109,P3,Accra Central,F,11-13,public,no,no
+L0110,P2,Kasoa,F,8-10,private,no,no
+L0111,P1,Kasoa,M,8-10,public,yes,no
+L0112,P2,Kasoa,F,11-13,private,yes,yes
+L0113,P1,Tema,F,11-13,public,no,no
+L0114,P1,Kasoa,M,11-13,private,no,yes
+L0115,P3,Madina,F,11-13,private,yes,yes
+L0116,P2,Kasoa,M,14-17,private,no,yes
+L0117,P1,Kasoa,F,11-13,private,no,no
+L0118,P2,Madina,M,8-10,public,yes,no
+L0119,P2,Accra Central,F,11-13,private,no,no
+L0120,P3,Accra Central,F,14-17,public,no,no
+L0121,P2,Madina,F,8-10,public,no,no
+L0122,P3,Kasoa,F,8-10,public,no,no
+L0123,P2,Accra Central,F,8-10,private,no,yes
+L0124,P1,Accra Central,M,14-17,private,no,yes
+L0125,P2,Accra Central,F,11-13,private,no,no
+L0126,P1,Tema,M,14-17,private,no,yes
+L0127,P1,Madina,F,14-17,public,yes,yes
+L0128,P1,Kasoa,M,14-17,public,yes,no
+L0129,P2,Tema,F,11-13,public,yes,yes
+L0130,P1,Kasoa,F,8-10,public,yes,no
+L0131,P1,Tema,F,8-10,public,no,no
+L0132,P3,Tema,F,11-13,public,no,no
+L0133,P1,Kasoa,F,8-10,public,yes,no
+L0134,P2,Kasoa,M,14-17,public,yes,no
+L0135,P2,Tema,M,14-17,private,no,yes
+L0136,P1,Accra Central,F,11-13,public,no,no
+L0137,P2,Tema,F,11-13,public,yes,no
+L0138,P1,Accra Central,F,11-13,public,no,no
+L0139,P3,Accra Central,F,11-13,private,no,no
+L0140,P1,Accra Central,F,8-10,public,no,no
+L0141,P1,Tema,F,14-17,public,yes,no
+L0142,P2,Madina ,M,8-10,public,no,no
+L0143,P2,Kasoa,M,8-10,private,no,no
+L0144,P3,Accra Central,M,11-13,private,no,yes
+L0145,P2,Accra Central,F,8-10,public,no,yes
+L0146,P3,Madina,M,11-13,private,no,no
+L0147,P2,Kasoa,M,14-17,private,no,no
+L0148,P3,Tema,Female,11-13,private,no,no
+L0149,P3,Madina,F,8-10,private,no,yes
+L0150,P3,Tema,M,11-13,private,yes,yes
+L0151,P1,Accra Central,M,8-10,public,no,yes
+L0152,P3,Madina,M,11-13,private,no,yes
+L0153,P2,Kasoa,M,14-17,public,no,no
+L0154,P1,Madina,M,8-10,private,no,yes
+L0155,P1,Kasoa,F,14-17,public,no,no
+L0156,P1,Tema,M,14-17,private,no,yes
+L0157,P2,Madina,M,14-17,public,no,no
+L0158,P1,Accra Central,F,8-10,public,yes,no
+L0159,P1,Tema,F,8-10,private,yes,yes
+L0160,P1,Kasoa,M,8-10,public,no,yes
+L0161,P1,Tema,F,11-13,public,no,no
+L0162,P1,Madina,M,11-13,public,yes,no
+L0163,P1,Kasoa,M,14-17,private,no,no
+L0164,P3,Kasoa,F,8-10,public,no,no
+L0165,P2,Madina,M,11-13,private,no,yes
+L0166,P2,Accra Central,Female,14-17,private,no,yes
+L0167,P3,Accra Central,Female,11-13,public,yes,no
+L0168,P2,Kasoa,F,11-13,private,no,no
+L0169,P3,Kasoa,M,8-10,private,no,no
+L0170,P2,Kasoa,F,11-13,public,no,no
+L0171,P1,Accra Central,F,8-10,private,no,yes
+L0172,P2,Kasoa,M,8-10,private,yes,no
+L0173,P1,Madina,M,14-17,public,no,no
+L0174,P1,Tema,F,8-10,public,yes,yes
+L0175,P1,Madina,F,14-17,public,no,yes
+L0176,P3,Kasoa,M,8-10,private,yes,yes
+L0177,P1,Madina,M,8-10,public,yes,no
+L0178,P3,Tema,F,8-10,private,yes,no
+L0179,P1,Accra Central,F,11-13,public,no,yes
+L0180,P1,Kasoa,F,11-13,private,no,no
+L0181,P2,Tema,F,11-13,public,no,yes
+L0182,P1,Tema,M,14-17,public,no,no
+L0183,P2,Accra Central,F,11-13,public,yes,yes
+L0184,P1,Kasoa,M,11-13,public,no,no
+L0185,P3,Madina,M,11-13,private,yes,yes
+L0186,P1,Accra Central,M,8-10,public,no,no
+L0187,P1,Kasoa,M,11-13,public,no,no
+L0188,P1,Tema,M,11-13,private,no,yes
+L0189,P3,Madina,F,11-13,public,no,no
+L0190,P1,Tema,M,8-10,private,no,yes
+L0191,P2,Madina,F,14-17,private,yes,no
+L0192,P1,Accra Central,M,14-17,public,yes,no
+L0193,P1,Accra Central,Female,11-13,public,no,no
+L0194,P1,Tema,M,8-10,public,yes,yes
+L0195,P2,Tema,M,11-13,public,no,yes
+L0196,P2,Madina,F,8-10,public,no,yes
+L0197,P3,Tema,F,11-13,public,no,no
+L0198,P3,Madina,Female,8-10,private,no,yes
+L0199,P3,Tema,M,8-10,private,no,yes
+L0200,P1,Kasoa,F,11-13,private,no,yes
+L0201,P2,Accra Central,F,14-17,public,no,no
+L0202,P1,Kasoa,F,14-17,public,yes,no
+L0203,P3,Accra Central,M,11-13,private,no,yes
+L0204,P1,Tema,M,8-10,public,yes,yes
+L0205,P1,Kasoa,M,11-13,public,yes,no
+L0206,P1,Madina,F,14-17,public,no,no
+L0207,P1,Madina,F,8-10,private,no,yes
+L0208,P3,Accra Central,M,8-10,private,no,yes
+L0209,P2,Accra Central,M,11-13,public,no,no
+L0210,P2,Madina,M,11-13,public,yes,yes
+L0211,P3,Madina,M,14-17,private,no,yes
+L0212,P2,Accra Central,F,14-17,public,no,no
+L0213,P3,Tema,F,8-10,private,yes,yes
+L0214,P3,Accra Central,M,11-13,public,no,no
+L0215,P1,Kasoa,M,11-13,private,no,yes
+L0216,P2,Kasoa,F,11-13,private,no,yes
+L0217,P1,Accra Central,F,14-17,private,yes,no
+L0218,P1,Madina,F,14-17,public,yes,no
+L0219,P1,Accra Central,M,11-13,public,no,no
+L0220,P3,Tema,Female,8-10,private,no,yes
+L0221,P1,Kasoa,F,14-17,public,yes,no
+L0222,P2,Madina,F,14-17,public,no,no
+L0223,P2,Kasoa,F,11-13,public,no,yes
+L0224,P3,Tema,F,14-17,public,no,no
+L0225,P3,Madina,F,11-13,public,no,no
+L0226,P1,Madina,F,11-13,private,no,yes
+L0227,P3,Tema,Female,14-17,public,yes,no
+L0228,P1,Kasoa,M,11-13,public,no,yes
+L0229,P2,Tema,F,11-13,public,no,yes
+L0230,P1,Accra Central,M,11-13,public,no,no
+L0231,P1,Tema,M,8-10,private,no,no
+L0232,P3,Tema,M,11-13,private,yes,yes
+L0233,P3,Kasoa,M,14-17,public,no,no
+L0234,P2,Tema,M,11-13,public,yes,yes
+L0235,P1,Kasoa,F,8-10,public,no,no
+L0236,P1,Madina,M,11-13,private,yes,yes
+L0237,P1,Tema,M,14-17,private,yes,yes
+L0238,P1,Accra Central,M,14-17,public,no,no
+L0239,P1,Kasoa,M,11-13,private,no,yes
+L0240,P1,Madina ,M,14-17,public,no,no
+L0241,P1,Kasoa,Male,11-13,public,no,no
+L0242,P1,Kasoa,F,11-13,public,no,no
+L0243,P3,Tema,M,11-13,public,yes,no
+L0244,P2,Accra Central,M,8-10,public,no,no
+L0245,P3,Tema,M,8-10,private,yes,yes
+L0246,P2,Tema,Male,8-10,private,yes,yes
+L0247,P1,Tema,M,11-13,public,yes,no
+L0248,P2,Accra Central,M,14-17,private,no,yes
+L0249,P3,Madina,F,14-17,private,yes,yes
+L0250,P3,Madina,F,14-17,private,no,yes
+L0251,P1,Accra Central,F,8-10,public,no,no
+L0252,P3,Madina,M,14-17,private,no,yes
+L0253,P2,Tema ,F,8-10,private,yes,yes
+L0254,P1,Madina,F,8-10,public,no,no
+L0255,P2,Kasoa,M,11-13,public,no,no
+L0256,P1,Madina,F,8-10,public,no,no
+L0257,P1,Kasoa,M,14-17,private,yes,no
+L0258,P2,Kasoa,M,11-13,public,yes,no
+L0259,P2,Accra Central,F,8-10,public,no,no
+L0260,P1,Kasoa,F,11-13,public,yes,no
+L0261,P1,Accra Central,F,14-17,public,yes,no
+L0262,P1,Accra Central,M,8-10,public,yes,no
+L0263,P1,Accra Central,F,14-17,public,no,no
+L0264,P2,Madina,F,11-13,public,no,no
+L0265,P1,Accra Central,F,11-13,public,yes,yes
+L0266,P2,Madina,F,11-13,private,yes,no
+L0267,P3,Madina ,F,11-13,public,yes,yes
+L0268,P3,Tema,M,11-13,private,no,no
+L0269,P1,Accra Central,F,11-13,public,yes,no
+L0270,P1,Tema,M,11-13,public,yes,no
+L0271,P1,Madina,M,8-10,private,no,yes
+L0272,P1,Accra Central,F,11-13,public,no,yes
+L0273,P1,Madina,F,14-17,public,yes,no
+L0274,P2,Kasoa,F,11-13,public,yes,no
+L0275,P2,Kasoa,M,11-13,public,no,no
+L0276,P1,Accra Central,M,11-13,public,yes,yes
+L0277,P1,Tema,M,11-13,private,no,yes
+L0278,P1,Madina,F,8-10,private,no,no
+L0279,P3,Tema,F,11-13,private,no,yes
+L0280,P1,Kasoa,M,14-17,public,no,no
+L0281,P1,Tema,M,14-17,public,no,no
+L0282,P2,Madina,M,11-13,private,yes,yes
+L0283,P1,Madina,M,11-13,private,no,no
+L0284,P2,Accra Central,M,11-13,public,no,no
+L0285,P1,Accra Central,F,11-13,public,no,no
+L0286,P2,Kasoa,M,8-10,public,no,no
+L0287,P1,Tema,F,14-17,public,no,yes
+L0288,P1,Madina,M,14-17,public,no,no
+L0289,P2,Tema,M,11-13,public,no,no
+L0290,P1,Kasoa,F,8-10,public,yes,no
+L0291,P3,Madina,F,11-13,public,no,no
+L0292,P3,Tema ,M,8-10,private,no,yes
+L0293,P1,Accra Central ,M,11-13,public,no,yes
+L0294,P2,Kasoa,F,8-10,public,yes,no
+L0295,P2,Madina,M,11-13,public,no,yes
+L0296,P1,Madina,F,11-13,public,no,no
+L0297,P2,Madina,M,8-10,private,no,yes
+L0298,P1,Accra Central,M,14-17,private,no,yes
+L0299,P1,Accra Central,F,8-10,public,no,no
+L0300,P1,Tema,F,14-17,public,no,no
+L0301,P2,Kasoa,M,8-10,public,yes,no
+L0302,P2,Accra Central,M,11-13,private,no,no
+L0303,P2,Tema,F,11-13,private,no,yes
+L0304,P3,Accra Central,M,11-13,public,no,yes
+L0305,P3,Accra Central,M,14-17,private,no,yes
+L0306,P1,Accra Central,M,11-13,private,yes,yes
+L0307,P2,Kasoa,M,11-13,public,no,no
+L0308,P1,Accra Central,Female,8-10,private,yes,yes
+L0309,P1,Accra Central,M,8-10,public,yes,no
+L0310,P3,Kasoa,M,11-13,private,no,yes
+L0311,P2,Madina,M,11-13,private,no,yes
+L0312,P1,Madina,F,11-13,public,no,yes
+L0313,P1,Kasoa,F,11-13,public,no,no
+L0314,P2,Tema,F,11-13,public,no,no
+L0315,P3,Madina,F,8-10,public,no,no
+L0316,P2,Madina,M,11-13,private,no,yes
+L0317,P2,Kasoa,M,11-13,private,no,yes
+L0318,P1,Kasoa,M,14-17,public,no,no
+L0319,P1,Tema,F,8-10,private,no,yes
+L0320,P2,Tema,F,8-10,private,no,yes
+L0321,P3,Madina,M,8-10,public,no,no
+L0322,P1,Tema,M,11-13,public,no,no
+L0323,P1,Accra Central,F,8-10,private,no,yes
+L0324,P3,Accra Central,M,11-13,public,yes,yes
+L0325,P1,Accra Central,M,11-13,public,no,no
+L0326,P2,Accra Central,F,8-10,public,no,no
+L0327,P1,Kasoa,M,14-17,private,no,yes
+L0328,P3,Accra Central,M,14-17,public,no,yes
+L0329,P1,Madina,M,8-10,public,no,no
+L0330,P2,Madina,M,11-13,public,no,no
+L0331,P3,Kasoa,M,11-13,private,no,yes
+L0332,P2,Madina,M,11-13,public,yes,no
+L0333,P1,Kasoa,M,14-17,private,no,no
+L0334,P3,Madina,F,14-17,public,no,yes
+L0335,P3,Kasoa,F,11-13,public,no,no
+L0336,P2,Madina,M,11-13,public,yes,no
+L0337,P1,Madina,F,8-10,public,yes,no
+L0338,P3,Accra Central,M,11-13,public,no,no
+L0339,P3,Madina,M,8-10,public,yes,no
+L0340,P2,Madina,F,11-13,public,no,no
+L0341,P1,Accra Central,M,14-17,public,no,no
+L0342,P3,Kasoa,F,8-10,public,no,no
+L0343,P1,Accra Central,F,14-17,private,no,yes
+L0344,P1,Madina,M,8-10,public,no,yes
+L0345,P3,Tema,M,14-17,public,no,yes
+L0346,P2,Kasoa,M,8-10,public,no,no
+L0347,P1,Madina,M,8-10,public,no,yes
+L0348,P2,Madina,F,8-10,private,no,no
+L0349,P3,Tema,F,11-13,private,no,no
+L0350,P3,Accra Central,M,11-13,public,yes,no
+L0351,P1,Kasoa,M,8-10,private,yes,yes
+L0352,P1,Kasoa,M,11-13,public,no,no
+L0353,P1,Kasoa,F,11-13,private,no,no
+L0354,P1,Tema,F,8-10,public,yes,no
+L0355,P1,Madina,M,11-13,private,no,yes
+L0356,P1,Accra Central,F,11-13,public,no,no
+L0357,P3,Tema,M,14-17,private,yes,no
+L0358,P2,Madina,M,14-17,public,no,yes
+L0359,P1,Accra Central,F,11-13,private,yes,yes
+L0360,P3,Accra Central,F,11-13,public,no,no
+L0361,P1,Kasoa,M,11-13,public,yes,no
+L0362,P1,Tema,M,8-10,private,yes,yes
+L0363,P2,Kasoa,F,11-13,public,no,no
+L0364,P1,Madina,F,11-13,public,no,no
+L0365,P1,Tema,M,8-10,public,no,no
+L0366,P3,Accra Central,F,14-17,private,no,yes
+L0367,P1,Accra Central,F,14-17,public,no,no
+L0368,P2,Kasoa,M,11-13,private,no,yes
+L0369,P1,Kasoa ,M,11-13,public,no,no
+L0370,P3,Accra Central,F,8-10,private,no,yes
+L0371,P1,Madina,F,14-17,private,no,yes
+L0372,P3,Madina,M,8-10,private,no,yes
+L0373,P2,Madina,M,14-17,public,yes,no
+L0374,P3,Madina,M,11-13,public,no,no
+L0375,P1,Madina,M,8-10,public,yes,no
+L0376,P1,Tema,M,14-17,private,yes,yes
+L0377,P1,Madina,M,14-17,public,no,no
+L0378,P3,Kasoa,F,11-13,private,yes,yes
+L0379,P1,Accra Central,F,8-10,private,no,yes
+L0380,P1,Kasoa,Male,11-13,public,no,no
+L0381,P2,Tema ,F,11-13,private,no,yes
+L0382,P3,Madina,F,14-17,public,no,no
+L0383,P2,Tema,M,11-13,public,no,yes
+L0384,P1,Madina,F,11-13,private,no,yes
+L0385,P1,Madina,F,11-13,public,yes,yes
+L0386,P2,Kasoa,F,11-13,private,no,yes
+L0387,P2,Tema,M,8-10,private,no,yes
+L0388,P1,Accra Central,M,11-13,public,no,yes
+L0389,P1,Accra Central,F,11-13,public,no,no
+L0390,P1,Kasoa,Male,14-17,private,yes,yes
+L0391,P1,Kasoa ,F,14-17,public,no,yes
+L0392,P2,Tema,M,8-10,private,no,yes
+L0393,P3,Kasoa,F,14-17,public,no,yes
+L0394,P1,Accra Central,M,8-10,private,yes,yes
+L0395,P3,Kasoa,Male,14-17,public,no,no
+L0396,P1,Tema,Female,8-10,public,no,no
+L0397,P1,Tema,M,11-13,private,no,yes
+L0398,P2,Tema,F,8-10,public,no,yes
+L0399,P1,Kasoa,M,11-13,public,no,no
+L0400,P1,Kasoa,F,14-17,public,yes,yes
+L0401,P3,Accra Central,F,14-17,private,no,no
+L0402,P1,Tema,F,11-13,private,yes,yes
+L0403,P3,Accra Central,F,8-10,private,no,yes
+L0404,P1,Tema,M,11-13,private,no,no
+L0405,P1,Tema,F,11-13,private,no,no
+L0406,P2,Kasoa,M,14-17,public,no,no
+L0407,P3,Kasoa,M,14-17,private,no,yes
+L0408,P3,Kasoa,F,14-17,public,yes,yes
+L0409,P1,Kasoa,M,11-13,private,yes,no
+L0410,P1,Tema,Female,11-13,public,no,no
+L0411,P1,Kasoa,F,14-17,private,no,yes
+L0412,P1,Kasoa,F,8-10,public,no,no
+L0413,P1,Tema,F,11-13,public,yes,no
+L0414,P1,Accra Central,M,11-13,public,no,no
+L0415,P2,Kasoa,F,11-13,private,yes,yes
+L0416,P1,Madina,F,11-13,private,no,yes
+L0417,P3,Kasoa,M,11-13,public,no,no
+L0418,P2,Accra Central,M,8-10,public,no,no
+L0419,P1,Kasoa,M,14-17,private,yes,yes
+L0420,P2,Accra Central,F,11-13,public,yes,no
+L0421,P1,Madina,M,8-10,private,no,no
+L0422,P1,Kasoa,M,11-13,public,no,no
+L0423,P1,Kasoa,M,8-10,public,no,no
+L0424,P1,Kasoa,M,11-13,public,no,no
+L0425,P3,Kasoa,Female,11-13,private,no,yes
+L0426,P1,Madina,Female,8-10,private,no,no
+L0427,P2,Madina,F,11-13,private,yes,yes
+L0428,P1,Tema,M,8-10,private,no,yes
+L0429,P2,Tema,F,11-13,public,yes,yes
+L0430,P3,Kasoa,F,8-10,public,no,no
+L0431,P1,Tema,F,11-13,public,no,yes
+L0432,P1,Tema,M,8-10,private,no,no
+L0433,P2,Accra Central,M,11-13,private,yes,yes
+L0434,P1,Madina,F,14-17,public,no,no
+L0435,P2,Kasoa,M,11-13,private,no,yes
+L0436,P3,Accra Central,F,14-17,private,yes,yes
+L0437,P3,Madina,F,11-13,public,yes,no
+L0438,P2,Madina,F,14-17,private,no,yes
+L0439,P1,Madina,F,11-13,public,no,yes
+L0440,P1,Accra Central,F,14-17,public,no,yes
+L0441,P3,Accra Central,M,8-10,public,yes,no
+L0442,P2,Tema,M,11-13,public,yes,no
+L0443,P3,Madina,M,8-10,public,no,no
+L0444,P2,Accra Central,F,8-10,public,yes,yes
+L0445,P1,Madina,Female,11-13,private,no,yes
+L0446,P2,Madina,M,8-10,private,no,yes
+L0447,P2,Accra Central,F,14-17,public,no,no
+L0448,P1,Madina,M,11-13,private,yes,yes
+L0449,P1,Tema,M,8-10,public,no,yes
+L0450,P2,Kasoa,F,8-10,public,no,no
+L0451,P1,Kasoa,F,11-13,public,no,no
+L0452,P1,Kasoa,F,11-13,private,no,yes
+L0453,P1,Accra Central,F,8-10,private,yes,yes
+L0454,P2,Accra Central,F,8-10,public,no,yes
+L0455,P1,Kasoa,F,11-13,private,yes,yes
+L0456,P2,Kasoa,F,8-10,private,no,yes
+L0457,P1,Tema,M,11-13,public,yes,no
+L0458,P1,Kasoa,F,11-13,public,no,yes
+L0459,P1,Madina,M,11-13,private,no,no
+L0460,P1,Tema,M,11-13,private,no,yes
+L0461,P3,Accra Central,M,11-13,public,no,no
+L0462,P3,Madina,F,11-13,public,no,no
+L0463,P2,Madina,M,8-10,public,yes,no
+L0464,P3,Accra Central,M,14-17,public,no,no
+L0465,P1,Tema,M,8-10,private,no,no
+L0466,P3,Accra Central,F,14-17,private,no,yes
+L0467,P3,Accra Central,F,8-10,public,no,no
+L0468,P2,Tema,M,14-17,public,no,yes
+L0469,P3,Accra Central ,F,14-17,private,yes,yes
+L0470,P1,Madina,M,11-13,private,no,yes
+L0471,P1,Kasoa,M,14-17,public,yes,no
+L0472,P3,Accra Central,M,14-17,public,yes,no
+L0473,P1,Kasoa,F,11-13,private,yes,yes
+L0474,P3,Kasoa,F,8-10,public,no,no
+L0475,P2,Accra Central,M,14-17,private,no,yes
+L0476,P1,Kasoa,M,11-13,public,yes,no
+L0477,P3,Kasoa,F,14-17,public,no,yes
+L0478,P2,Tema,M,8-10,public,yes,no
+L0479,P1,Accra Central,M,14-17,private,no,yes
+L0480,P1,Kasoa,F,14-17,public,no,no
+L0481,P1,Accra Central,M,11-13,private,no,yes
+L0482,P3,Madina,M,14-17,private,no,yes
+L0483,P3,Tema,F,14-17,private,no,no
+L0484,P1,Accra Central,F,14-17,public,no,yes
+L0485,P1,Tema,Female,11-13,private,no,yes
+L0486,P3,Madina ,F,8-10,public,no,yes
+L0487,P1,Accra Central,M,11-13,private,no,yes
+L0488,P1,Accra Central,F,8-10,public,no,no
+L0489,P1,Kasoa,M,11-13,public,no,no
+L0490,P3,Madina,F,11-13,private,yes,yes
+L0491,P2,Madina,M,8-10,public,no,no
+L0492,P1,Kasoa,F,14-17,public,yes,no
+L0493,P1,Accra Central,F,11-13,public,yes,no
+L0494,P1,Accra Central,F,14-17,public,no,no
+L0495,P2,Tema,M,11-13,public,no,no
+L0496,P1,Accra Central,F,11-13,public,no,yes
+L0497,P2,Accra Central,F,8-10,public,no,no
+L0498,P3,Tema ,F,11-13,private,no,yes
+L0499,P2,Accra Central,F,8-10,private,no,yes
+L0500,P1,Accra Central,F,14-17,private,no,yes
+L0501,P1,Kasoa,M,14-17,public,no,yes
+L0502,P1,Accra Central,M,11-13,private,yes,no
+L0503,P2,Tema,M,11-13,public,no,no
+L0504,P1,Kasoa,Female,8-10,private,no,yes
+L0505,P1,Accra Central,F,11-13,private,no,yes
+L0506,P3,Accra Central,F,11-13,private,yes,yes
+L0507,P2,Tema,F,8-10,private,no,yes
+L0508,P2,Madina,M,11-13,private,no,yes
+L0509,P1,Kasoa,Female,14-17,public,no,no
+L0510,P1,Tema,F,11-13,public,no,no
+L0511,P2,Kasoa,M,8-10,public,no,no
+L0512,P1,Tema,M,11-13,public,yes,no
+L0513,P1,Madina,F,8-10,public,no,no
+L0514,P3,Madina,F,8-10,private,no,no
+L0515,P3,Tema,M,14-17,public,no,no
+L0516,P3,Kasoa,M,11-13,public,no,yes
+L0517,P3,Accra Central,Female,11-13,public,no,yes
+L0518,P2,Tema,F,8-10,public,no,no
+L0519,P1,Tema,F,11-13,public,no,yes
+L0520,P3,Tema,M,8-10,private,no,yes
+L0521,P2,Tema,M,8-10,public,no,no
+L0522,P1,Madina,F,11-13,public,no,yes
+L0523,P3,Kasoa,F,14-17,public,no,yes
+L0524,P3,Accra Central,F,8-10,public,yes,yes
+L0525,P1,Tema,F,11-13,private,no,yes
+L0526,P1,Accra Central,F,11-13,public,no,no
+L0527,P1,Kasoa,M,11-13,public,no,no
+L0528,P2,Accra Central,F,14-17,public,no,no
+L0529,P1,Kasoa,M,8-10,private,no,yes
+L0530,P1,Tema,M,11-13,public,yes,no
+L0531,P3,Kasoa,M,14-17,public,no,no
+L0532,P2,Madina,M,11-13,public,no,no
+L0533,P3,Accra Central,F,11-13,private,no,no
+L0534,P2,Madina,M,8-10,public,no,no
+L0535,P1,Tema,M,11-13,public,no,no
+L0536,P3,Kasoa,F,11-13,private,no,yes
+L0537,P1,Tema,M,11-13,public,yes,no
+L0538,P3,Tema,F,11-13,private,no,yes
+L0539,P1,Tema,F,8-10,public,no,yes
+L0540,P1,Madina,M,11-13,public,no,yes
+L0541,P2,Accra Central,F,11-13,public,no,yes
+L0542,P1,Madina,F,14-17,public,no,no
+L0543,P1,Tema,Female,14-17,public,no,no
+L0544,P1,Kasoa,M,11-13,private,yes,yes
+L0545,P1,Tema,M,14-17,public,no,no
+L0546,P2,Kasoa,M,11-13,public,yes,no
+L0547,P2,Kasoa,M,11-13,private,no,no
+L0548,P1,Tema,M,11-13,private,no,no
+L0549,P1,Accra Central,F,11-13,public,no,no
+L0550,P1,Tema,F,11-13,public,yes,yes
+L0551,P1,Tema,F,14-17,public,no,no
+L0552,P2,Kasoa,Female,11-13,private,no,yes
+L0553,P2,Kasoa,F,14-17,public,no,no
+L0554,P1,Accra Central,F,11-13,public,no,yes
+L0555,P1,Tema,F,14-17,public,no,yes
+L0556,P2,Madina,M,11-13,public,yes,no
+L0557,P2,Kasoa,F,11-13,public,no,no
+L0558,P2,Kasoa,F,14-17,private,yes,yes
+L0559,P2,Tema,M,14-17,public,yes,yes
+L0560,P1,Kasoa,M,8-10,public,yes,yes
+L0561,P1,Madina,M,11-13,public,no,no
+L0562,P1,Accra Central,F,14-17,private,no,yes
+L0563,P2,Kasoa,F,11-13,private,no,no
+L0564,P1,Madina,F,8-10,public,yes,no
+L0565,P2,Kasoa,F,14-17,public,yes,yes
+L0566,P3,Tema,Female,11-13,public,yes,no
+L0567,P1,Accra Central,F,8-10,public,no,yes
+L0568,P1,Accra Central,M,11-13,public,no,no
+L0569,P2,Accra Central,Male,14-17,public,no,no
+L0570,P2,Kasoa,Male,11-13,public,no,no
+L0571,P3,Madina,F,11-13,public,no,no
+L0572,P1,Tema,F,8-10,public,no,no
+L0573,P2,Madina,M,14-17,public,no,no
+L0574,P1,Madina,Male,11-13,public,no,yes
+L0575,P1,Tema,F,11-13,private,no,yes
+L0576,P2,Tema,F,8-10,private,no,yes
+L0577,P2,Accra Central,F,11-13,public,no,yes
+L0578,P3,Tema,F,8-10,private,yes,yes
+L0579,P1,Kasoa,M,11-13,private,no,no
+L0580,P1,Kasoa,F,11-13,public,yes,no
+L0581,P1,Tema,F,11-13,public,no,no
+L0582,P2,Kasoa,F,11-13,private,no,no
+L0583,P2,Tema,M,11-13,private,no,no
+L0584,P1,Accra Central,F,11-13,public,yes,no
+L0585,P3,Accra Central,F,14-17,public,no,no
+L0586,P3,Madina,M,11-13,public,no,no
+L0587,P3,Madina,F,11-13,private,yes,yes
+L0588,P2,Accra Central,F,11-13,public,no,yes
+L0589,P1,Kasoa,M,8-10,private,no,no
+L0590,P2,Accra Central,M,14-17,private,no,yes
+L0591,P3,Accra Central,Male,14-17,public,no,no
+L0592,P3,Accra Central,M,8-10,public,yes,no
+L0593,P1,Madina,F,11-13,public,yes,yes
+L0594,P3,Kasoa,F,8-10,private,yes,no
+L0595,P2,Accra Central,F,11-13,private,no,yes
+L0596,P1,Kasoa,Male,14-17,private,no,yes
+L0597,P1,Accra Central,F,11-13,public,yes,no
+L0598,P3,Tema,M,11-13,private,no,yes
+L0599,P2,Tema,M,11-13,public,no,no
+L0600,P2,Accra Central,M,14-17,private,yes,yes
+L0601,P1,Madina,M,11-13,public,no,no
+L0602,P1,Accra Central,M,11-13,public,yes,no
+L0603,P2,Accra Central,F,11-13,public,no,no
+L0604,P1,Accra Central,M,14-17,public,no,no
+L0605,P1,Accra Central,F,8-10,public,no,no
+L0606,P2,Kasoa,M,8-10,public,yes,no
+L0607,P2,Accra Central,M,11-13,public,no,no
+L0608,P1,Tema,M,8-10,private,no,yes
+L0609,P1,Madina,F,11-13,public,no,no
+L0610,P3,Accra Central,M,11-13,public,no,no
+L0611,P2,Accra Central,F,8-10,public,yes,no
+L0612,P1,Kasoa,M,8-10,private,no,yes
+L0613,P3,Kasoa,F,11-13,public,yes,no
+L0614,P1,Kasoa,F,11-13,public,no,no
+L0615,P3,Accra Central,F,11-13,public,no,yes
+L0616,P3,Tema ,Female,14-17,public,no,no
+L0617,P1,Madina,M,11-13,public,yes,no
+L0618,P2,Tema,M,8-10,public,no,no
+L0619,P3,Accra Central,M,8-10,private,no,yes
+L0620,P3,Accra Central,F,11-13,private,yes,yes
+L0621,P2,Accra Central,F,11-13,public,yes,no
+L0622,P2,Madina,M,8-10,public,no,no
+L0623,P3,Kasoa,F,8-10,public,no,yes
+L0624,P1,Accra Central,M,8-10,public,yes,no
+L0625,P2,Accra Central,F,14-17,public,yes,yes
+L0626,P2,Accra Central,F,14-17,public,no,no
+L0627,P1,Madina,M,14-17,private,no,no
+L0628,P2,Kasoa,F,11-13,public,no,no
+L0629,P1,Kasoa,Female,14-17,public,no,no
+L0630,P1,Accra Central,M,14-17,private,no,yes
+L0631,P1,Accra Central,F,14-17,private,no,yes
+L0632,P1,Accra Central,F,8-10,public,no,yes
+L0633,P2,Tema,M,8-10,public,no,yes
+L0634,P3,Accra Central,F,14-17,public,yes,no
+L0635,P1,Tema,F,14-17,public,no,no
+L0636,P3,Accra Central,M,11-13,public,yes,no
+L0637,P1,Kasoa,F,11-13,public,no,yes
+L0638,P1,Accra Central,M,8-10,public,no,yes
+L0639,P1,Madina,M,11-13,private,yes,yes
+L0640,P1,Kasoa,M,8-10,private,yes,yes
+L0483,P3,Tema,F,14-17,private,no,no
+L0024,P3,Tema,F,11-13,private,no,yes
+L0077,P1,Tema,F,14-17,private,no,no
+L0125,P2,Accra Central,F,11-13,private,no,no
+L0399,P1,Kasoa,M,11-13,public,no,no
+L0154,P1,Madina,M,8-10,private,no,yes
+L0231,P1,Tema,M,8-10,private,no,no
+L0558,P2,Kasoa,F,14-17,private,yes,yes
+L0093,P1,Madina,M,11-13,public,no,no
+L0461,P3,Accra Central,M,11-13,public,no,no
+L0207,P1,Madina,F,8-10,private,no,yes
+L0127,P1,Madina,F,14-17,public,yes,yes

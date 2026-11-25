@@ -1,0 +1,24 @@
+{
+  "note": "SYNTHETIC data. True effects on skill gain (points).",
+  "seed": 2026,
+  "n_learners": 640,
+  "base_gain_at_80pct_attendance": {
+    "School Robotics": 14.0,
+    "AI Basics": 11.0,
+    "Holiday Camp": 8.0
+  },
+  "device": 4.0,
+  "prior_experience": -3.0,
+  "attendance_per_10_points": 1.2,
+  "girl": 0.0,
+  "public_school": 0.0,
+  "girl_x_public": -2.5,
+  "noise_sd": 4.0,
+  "planted_errors": {
+    "mixed_gender_codes": 40,
+    "duplicate_enrolments": 12,
+    "site_trailing_spaces": 15,
+    "score_over_100": 1,
+    "attendance_before_start": 1
+  }
+}
